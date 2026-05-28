@@ -1,0 +1,8 @@
+{
+  "watch": ["index.js", "routes", "services"],
+  "ignore": [
+    "temp/*",
+    "*.zip",
+    "node_modules/*"
+  ]
+}
